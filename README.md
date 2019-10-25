@@ -1,5 +1,5 @@
 # ansible-docker
-Install docker ce with ansible on ubuntu 18.x
+Install docker-ce and docker-compose on ubuntu 18.x with ansible
 
 Requirements
 - sudoer access on remote host
